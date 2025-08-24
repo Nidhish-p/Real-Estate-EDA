@@ -36,9 +36,12 @@ This project focuses on **exploratory data analysis (EDA) of real estate data** 
 - Built a strong **data storytelling approach** through visualizations and structured findings.  
 
 ### 🔹 Software & Tools
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Jupyter Notebook** for interactive development and documentation  
-- **Tableau** (if dashboards were used alongside this EDA project)  
+- **Python**
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- **Jupyter Notebook** for interactive development and documentation
 
 ---
 
@@ -48,6 +51,15 @@ This project focuses on **exploratory data analysis (EDA) of real estate data** 
 - Feature correlation analysis revealed **high dependency of price on square footage** compared to other amenities.  
 
 ---
+
+## Some Visualization Examples
+
+<img src="viz1.png" width="400">
+<img src="viz2.png" width="400">
+<img src="viz3.png" width="400">
+
+
+
 
 ## 🚀 How to Run the Project
 1. Clone this repository:  
